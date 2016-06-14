@@ -1,0 +1,4 @@
+*** Settings ***
+
+*** Test Cases ***
+TC01    Log    Test
